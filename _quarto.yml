@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Jader Ramalho's Profile"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Experience
+        href: experience.qmd
+      - text: Insights
+        href: insights.qmd
+      - text: Community
+        href: community.qmd
+      - text: "Curriculum Vitae"
+        href: cv.qmd
+      - icon: linkedin
+        href: "https://linkedin.com/in/jaderramalho"
+  site-url: https://jader-ramalho.github.io/portfolio.github.io
+  repo-url: https://github.com/jader-ramalho/portfolio.github.io
+
+
+format:
+  html:
+    theme:
+      light: [flatly, styles/light.scss]   # flatly = clean, blue-ish
+      dark:  [darkly, styles/dark.scss]    # darkly pairs well with flatly
+    css: styles.css
+    toc: true
+
+
+

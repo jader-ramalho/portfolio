@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+---
+
+Below you can view my full professional résumé in PDF format.  
+You can also [download it here](static/Jader_Ramalho_CV_Canada.pdf){target="_blank"}.
+
+---
+
+<iframe src="static/Jader_Ramalho_CV_Canada.pdf"
+        width="100%"
+        height="600px"
+        style="border:none; box-shadow:0 0 10px rgba(0,0,0,0.1); border-radius:8px;">
+</iframe>

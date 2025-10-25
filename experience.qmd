@@ -1,0 +1,89 @@
+---
+title: "Experience"
+---
+
+### Activesoft – Founder & CEO (2002–2021)
+Founded one of Brazil’s leading EdTech SaaS platforms, serving over **1,500 private schools**.  
+Scaled the company from a small regional software firm to a national leader, leading **180+ employees** across product, engineering, and customer success.
+
+- Implemented data-driven OKRs and a strong customer success culture.  
+- Recognized as one of **Brazil’s Best Workplaces (GPTW)**.  
+- Led **M&A process** with Arco Educação / Isaac in 2021.  
+
+---
+
+### Advisor & Angel Investor (2021–Present)
+Supporting SaaS startups in Brazil and Canada to scale strategically through improved product-market fit, growth processes, and leadership systems.
+
+
+#### CollectABA — Behavioral Health SaaS
+
+::: {.columns}
+::: {.column width="20%"}
+![](images/logos/collectABA.png){width=120 .rounded .shadow style="float:left; margin-top:15px;"}
+:::
+
+::: {.column width="80%"}
+I support CollectABA’s move from a clinician-first tool to a scalable practice platform (web + mobile) with clear roles for analysts, therapists, and caregivers.  
+
+Impact I supported: clarified ICP and pricing tiers, set OKRs for activation → retention, and designed a LGPD (Brazilian similar to HIPAA) readiness checklist.
+:::
+:::
+
+
+
+#### Daktus — Clinical Decision Support (healthtech)
+
+::: {.columns}
+::: {.column width="20%"}
+![](images/logos/daktus.png){width=120 .rounded .shadow style="float:left; margin-top:15px;"}
+:::
+
+::: {.column width="80%"}
+Advisory on product narrative and GTM for protocol-driven care and BI at point-of-service.  
+
+Impact I supported: built a reference pipeline with early adopters, and set a pilot → paid conversion playbook.
+:::
+:::
+
+
+
+
+#### Unymos — ERP for Funeral Homes & Cemeteries (deathtech)
+
+::: {.columns}
+::: {.column width="20%"}
+![](images/logos/unymos.jpg){width=120 .rounded .shadow style="float:left; margin-top:15px;"}
+:::
+
+::: {.column width="80%"}
+Helped refine pricing, onboarding, and implementation to reduce time-to-value for multi-site operators.  
+
+Impact I supported: introduced success metrics (time-to-first-invoice, AR aging), and coached CS on onboarding and expansion playbooks.
+:::
+:::
+
+
+
+
+
+#### Eterno — LegalTech Platform for Lawyers
+
+::: {.columns}
+::: {.column width="20%"}
+![](images/logos/eterno.png){width=120 .rounded .shadow style="float:left; margin-top:15px;"}
+:::
+
+::: {.column width="80%"}
+Onboarding and talent retention, improving how new professionals adapt to the platform and stay engaged.
+
+Impact I supported: achieved a 40% reduction in activation time, accelerating customer adoption and satisfaction.
+:::
+:::
+
+
+---
+
+### MBA in Business Analytics – University Canada West
+Exploring the intersection between business leadership, technology, and data analytics to inform smarter, evidence-based decision-making.  
+Focus areas: **Digital Transformation**, **Marketing Analytics** and **Finance**.

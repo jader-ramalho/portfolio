@@ -1,0 +1,42 @@
+---
+title: "Jader Ramalho's profile"
+image: "images/jader-portrait.jpg"
+---
+
+**Founder • Advisor • MBA Candidate in Business Analytics @ UCW**
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 280px; padding-right: 30px;">
+
+I’m an entrepreneur and advisor with over 25 years of experience in SaaS, leadership, and digital transformation.
+As the former CEO of [**Activesoft**](https://www.activesoft.com.br), I led a team of 180+ people and scaled the company to become one of Brazil’s top education technology platforms — later acquired by Arco Educação / Isaac, a NASDAQ-listed company.
+
+Now based in Vancouver, Canada, I’m pursuing my **MBA in Business Analytics** at University Canada West, combining real-world leadership with data-driven strategy.
+
+</div>
+
+<div style="flex: 0 0 250px; text-align: right;">
+  <img src="images/jader-portrait.jpg" alt="Jader Ramalho" style="width: 250px; border-radius: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2); margin-top: 10px;">
+</div>
+
+</div>
+
+
+---
+
+## My Mission
+> “To empower SaaS founders to scale with purpose — using data, strategy, and culture as growth engines.”
+
+---
+
+## Highlights
+- Founded and scaled Activesoft to **CAD 5M in annual revenue**.  
+- Led **successful M&A** process with Arco Educação.  
+- Achieved **98% CSAT** and **GPTW certification** for best workplace culture.  
+- Advisor to emerging SaaS startups in Brazil and Canada.  
+
+---
+
+## Let’s Connect
+If you’re a founder, student, or fellow tech professional interested in SaaS growth, culture, or analytics, contact me thought LinkedIn message!
