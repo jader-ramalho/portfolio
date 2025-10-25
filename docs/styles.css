@@ -1,0 +1,12 @@
+/* css styles */
+
+.logo-tile img {
+  height: 60px;       /* uniform height for all logos */
+  width: auto;
+  margin: 0 auto;     /* center in container if desired */
+  display: block;
+}
+
+.logo-tile {
+  text-align: right;  /* aligns logo to right side in your flex box */
+}
