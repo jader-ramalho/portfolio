@@ -1,0 +1,42 @@
+---
+title: "MBA Case Studies"
+---
+
+This portfolio showcases my analytical work during my MBA in Business Analytics at University Canada West. The papers below represent a cohort of my deep dive into corporate social responsibility (CSR), digital transformation, social entrepreneurship, and retail performance optimization. They bridge over 25 years of leadership experience with the latest analytical and ethical frameworks.
+
+---
+
+## Key Case Studies
+
+### The Senákw Project: How First Nations May Leverage Real Estate for a Brighter Future 
+Part of the Ethics, CSR, and Business Environment Analysis (BUSI 601) course, this work analyzes the large-scale residential development by the Squamish Nation in Vancouver. It identifies key stakeholders and explores how this Indigenous-led business venture can overcome challenges like limited business experience and cultural barriers to achieve financial sustainability. The analysis provides recommendations for leveraging the development to expand education, improve infrastructure, and foster cultural exchange.
+
+[Read →](academic_papers/Senakw_Project.pdf){target="_blank"}.
+
+---
+
+### Critical Path Forward: Alternatives to Preserve the Viability of the Malku Khota Project
+That is a crucial area of study, particularly for Canadian companies, which are dominant in the global mining sector. The paper on the Malku Khota Project highlights a common set of geopolitical, social, and ethical challenges Canadian extractive companies face when operating in developing nations or regions with Indigenous populations.
+
+[Read →](academic_papers/Malku_Khota_Project.pdf){target="_blank"}.
+
+---
+
+### ABC Stores' Sales Analysis
+This project applies Business Analytics (BUSI 650) to optimize the sales performance of a retail company. It uses statistical analysis, including a regression model, to uncover key trends in shipping logistics, regional performance, customer segmentation, and product profitability. The primary goal was to provide actionable, data-driven recommendations to boost overall margins and improve operational efficiency.
+
+[Read →](academic_papers/Sales_Analysis.pdf){target="_blank"}.
+
+---
+
+### Digital Transformation in the Hospitality Industry
+This presentation outlines a strategy for Digital Transformation (DT) for the hotel company, Hospitality Haven. It covers key DT concepts, current market trends (such as AI impact), and specific benefits for the hospitality sector, like faster check-in and AI concierges. The paper concludes with a clear four-step roadmap for execution, from diagnosis to final roadmap and alignment.
+
+[Read →](academic_papers/Digital_Transformation_Hospitality_industry.pdf){target="_blank"}.
+
+<video controls width="800">
+  <source src="academic_papers/Digital_Transformation_Hospitality_industry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
